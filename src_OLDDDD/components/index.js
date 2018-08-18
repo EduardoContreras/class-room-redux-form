@@ -1,0 +1,5 @@
+export { default as NewsForm } from './NewsForm'
+export { default as CategoriesList } from './CategoriesList'
+export { default as NewsFeed } from './NewsFeed'
+export { default as UserForm } from './UserForm'
+export { default as Card } from './Card'
